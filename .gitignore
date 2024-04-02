@@ -1,0 +1,15 @@
+# voice raw datas
+data
+
+# python-zip or data-zip
+*.zip
+*.gz
+*.tgz
+
+# python-env or package
+python*
+packages
+
+# LangChain LLM models
+./Langchain-Chatchat/models
+
